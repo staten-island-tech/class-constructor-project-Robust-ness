@@ -1,0 +1,20 @@
+button {
+    margin-right: .25rem;
+}
+
+damage {
+    color: red;
+}
+
+health {
+    color: green;
+}
+
+money {
+    color: goldenrod;
+}
+
+#messages div{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
